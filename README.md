@@ -1,1 +1,1 @@
-Third part of css advanced level I learn about media query and how I can fix the web page for each devices you can see it in :
+Third part of css advanced level I learn about media query and how I can fix the web page for each devices you can see it in : https://sali-fang.github.io/media-Query/ for undrestand what I am doing just change web size and you can see how it work.
